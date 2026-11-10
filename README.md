@@ -5,10 +5,13 @@
 # 📊 Awesome Self-Service Business Reporting & Analytics 🚀
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Self-Service-Business-Reporting-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Self-Service-Business-Reporting-Analytics?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Self-Service-Business-Reporting-Analytics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Self-Service-Business-Reporting-Analytics?style=social" alt="GitHub Forks"></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0 1.0"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🌟 **The Definitive Directory of Self-Service Business Intelligence (BI), Embedded Analytics & Data Reporting Platforms** — comparing commercial SaaS giants and top-starred open-source self-hosted alternatives empowering business analysts, data engineers, and executives to explore data, automate reporting, and build interactive dashboards without SQL.
@@ -26,6 +29,8 @@
   - [Project Deep Dives](#-project-deep-dives)
 - [🔍 Architectural Comparison at a Glance](#-architectural-comparison-at-a-glance)
 - [💡 Evaluation & Selection Guide](#-evaluation--selection-guide)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -241,6 +246,23 @@ flowchart TD
     DevPath -->|"Markdown + SQL CI/CD Reports"| Evidence["Evidence (MIT)"]
     DevPath -->|"Universal API Semantic Headless"| Cube["Cube Semantic Layer (Apache-2.0)"]
 ```
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Self-Service-Business-Reporting-Analytics&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Self-Service-Business-Reporting-Analytics&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring this curated repository! If you find this business intelligence & reporting index valuable, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and contribute** by adding new tools, updating feature changes, or sharing improvements.
+- 📢 **Share with colleagues**, data teams, and your developer networks.
+- ☕ **Buy me a coffee / Sponsor**: If this project helped you save time evaluating BI architecture, consider sponsoring ongoing maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
