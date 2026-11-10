@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Self-Service-Business-Reporting-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Self-Service-Business-Reporting-Analytics?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Self-Service-Business-Reporting-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Self-Service-Business-Reporting-Analytics?style=social" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Self-Service-Business-Reporting-Analytics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Self-Service-Business-Reporting-Analytics?style=social" alt="GitHub Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0 1.0"></a>
@@ -25,7 +25,7 @@
   - [Commercial BI Comparison Matrix](#-commercial-bi-comparison-matrix)
   - [Platform Deep Dives](#-platform-deep-dives)
 - [⚡ Open-Source Self-Hosted Software](#-open-source-self-hosted-software)
-  - [Open-Source Solutions by GitHub Stars](#-open-source-solutions-by-github-stars)
+  - [Open-Source Solutions by GitHub_Stars](#-open-source-solutions-by-github-stars)
   - [Project Deep Dives](#-project-deep-dives)
 - [🔍 Architectural Comparison at a Glance](#-architectural-comparison-at-a-glance)
 - [💡 Evaluation & Selection Guide](#-evaluation--selection-guide)
@@ -107,11 +107,11 @@ Commercial cloud-hosted Self-Service Business Reporting and Analytics suites eva
 
 Community-governed, self-hosted, and transparent reporting platforms that grant full ownership of your data warehouse connections, security perimeters, and infrastructure budgets.
 
-### 🌟 Open-Source Solutions by GitHub Stars
+### 🌟 Open-Source Solutions by GitHub_Stars
 
-*The table below is sorted in descending order by current GitHub repository star count.*
+*The table below is sorted in descending order by current GitHub repository Stars_Count.*
 
-| Repository | GitHub Stars Badge | Primary Language / Stack | License | Key Differentiator |
+| Repository | GitHub_Stars_Badge | Primary Language / Stack | License | Key Differentiator |
 |:---|:---:|:---|:---:|:---|
 | **[Apache Superset](https://github.com/apache/superset)** | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Python / Flask / React / TypeScript | Apache-2.0 | 40+ visualization types, enterprise SQL lab, and native semantic layer |
 | **[Metabase](https://github.com/metabase/metabase)** | [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | Clojure / Java / TypeScript | AGPL-3.0 | Intuitive no-code visual question builder for business teammates |
@@ -272,7 +272,7 @@ Contributions are warmly welcomed! Help make this curated directory the best res
 
 1. **Check for duplicates** — Review the existing tables to verify the tool is not already covered.
 2. **Review criteria** — Tools must be actively maintained (commit within the last 12 months) with transparent documentation.
-3. **Submit a pull request** — Include the project name, official URL, stack, license, verified pricing or star count, and primary use case.
+3. **Submit a pull request** — Include the project name, official URL, stack, license, verified pricing or Stars_Count, and primary use case.
 
 ```bash
 # Clone the repository
